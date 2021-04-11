@@ -16,4 +16,4 @@
    ```
 4. Run `npm start`
 
-> Make sure you have enabled less secure apps in your google account - [Less secure apps](https://myaccount.google.com/notifications/eid/4643869075790428730?origin=3)
+> Make sure you have enabled less secure apps in your google account - [Less secure apps](https://myaccount.google.com/lesssecureapps)
